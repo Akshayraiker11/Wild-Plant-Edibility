@@ -4,3 +4,4 @@ An application which tells you about which wild plants are safe to eat
 
 --------------------------------------------------------------------------------------------
 
+<img width="573" alt="Screenshot 2022-08-02 at 1 43 47 PM" src="https://user-images.githubusercontent.com/91720274/182327371-4159172b-898a-4219-a721-4e3fb60965f6.png">
